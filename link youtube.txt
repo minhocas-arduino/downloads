@@ -1,0 +1,9 @@
+senha da rede Mrsdcc-wifi é mrsdccwifi
+endereço do engine driver é 10.10.10.10 porta 12345
+
+link do video de configuração jmri painel pro e decoder pro
+https://www.youtube.com/watch?v=sKAeP6Q21KE
+
+link conig em ingles como wthrottle no IOS
+https://www.youtube.com/watch?v=wIZ5j0lz68o
+
